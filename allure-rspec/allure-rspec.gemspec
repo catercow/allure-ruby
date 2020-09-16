@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
     "wiki_uri" => "https://github.com/allure-framework/allure-ruby/wiki",
   }
 
-  s.required_ruby_version = ">= 2.5.0"
+  s.required_ruby_version = ">= 2.3.0"
 
   s.license = "Apache-2.0"
 
